@@ -1,0 +1,7 @@
+# plugins
+
+ - DiscordSRV
+ - SkinsRestorer
+ - Plan
+
+
